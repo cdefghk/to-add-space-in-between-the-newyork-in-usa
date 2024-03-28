@@ -1,0 +1,4 @@
+str_1='view'
+n=len(str_1)
+for i in range(n)
+print('the index',[i],str_1[i])
